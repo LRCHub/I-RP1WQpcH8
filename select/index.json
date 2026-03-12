@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "棒人間 (Strings ver.)",
+  "base_artist": "Radwimps",
+  "createdAt": "2026-03-12T21:54:31.263313Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "棒人間",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_棒人間_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "棒人間",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/02_棒人間_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "棒人間 (Strings ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_棒人間_(Strings_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "棒人間 (Strings ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_棒人間_(Strings_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "棒人間",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/05_棒人間_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "棒人間 [Strings ver.]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_棒人間_[Strings_ver.]_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "棒人間 (Strings ver.) - Stick Figure (Strings Version)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/07_棒人間_(Strings_ver.)_-_Stick_Figure_(Strings_Version)_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "棒人間 - Stick Figure",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/08_棒人間_-_Stick_Figure_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "棒人間 [Live]",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/09_棒人間_[Live]_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "棒人間",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_棒人間_RADWIMPS.txt"
+    }
+  ]
+}
